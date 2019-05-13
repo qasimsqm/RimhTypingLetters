@@ -33,33 +33,33 @@
 /* Begin PBXFileReference section */
 		0D8D41BBE37A501F245272DF8B531411 /* Pods-RimhTypingLetters_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RimhTypingLetters_Tests-resources.sh"; sourceTree = "<group>"; };
 		0FE8FECFE57311E868914BE531FE2DB9 /* TypingLetterUITextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TypingLetterUITextView.swift; path = RimhTypingLetters/Classes/TypingLetterUITextView.swift; sourceTree = "<group>"; };
-		14B5694095550DB54B80F1E9557F77B3 /* Pods-RimhTypingLetters_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-RimhTypingLetters_Tests.modulemap"; sourceTree = "<group>"; };
+		14B5694095550DB54B80F1E9557F77B3 /* Pods-RimhTypingLetters_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-RimhTypingLetters_Tests.modulemap"; sourceTree = "<group>"; };
 		1648B2A797DB9A9ABFF0B943947B827A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18E7121550AAF2D73A67E447D0D79ED9 /* Pods-RimhTypingLetters_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RimhTypingLetters_Example-frameworks.sh"; sourceTree = "<group>"; };
 		1B500FA94FD4A6486A857C66F666B84A /* Pods-RimhTypingLetters_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RimhTypingLetters_Example.release.xcconfig"; sourceTree = "<group>"; };
 		2035D598641FA9231B14A865AA8679DF /* Pods-RimhTypingLetters_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RimhTypingLetters_Example-resources.sh"; sourceTree = "<group>"; };
 		2379BC018F3A6C9BA9583FAB5DDCC15A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2AC7A016D3961F8C2361E126AC656938 /* RimhTypingLetters-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RimhTypingLetters-dummy.m"; sourceTree = "<group>"; };
-		2D8A2710A8C3FEC3C46A867980480CD1 /* Pods_RimhTypingLetters_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RimhTypingLetters_Tests.framework; path = "Pods-RimhTypingLetters_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		39A22280E345EDEAD54A1E3261AA4F32 /* RimhTypingLetters.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RimhTypingLetters.framework; path = RimhTypingLetters.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D8A2710A8C3FEC3C46A867980480CD1 /* Pods_RimhTypingLetters_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RimhTypingLetters_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		39A22280E345EDEAD54A1E3261AA4F32 /* RimhTypingLetters.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RimhTypingLetters.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F58B8A7577848EECF211ACBBFBBFC92 /* Pods-RimhTypingLetters_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RimhTypingLetters_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		43AE8DC2B4501A6F23437DA0D88A213D /* UILabel+RimhTypingLetter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UILabel+RimhTypingLetter.swift"; path = "RimhTypingLetters/Classes/UILabel+RimhTypingLetter.swift"; sourceTree = "<group>"; };
 		454C6938A8B15CBC8BDC5D5C2F809EBF /* Pods-RimhTypingLetters_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RimhTypingLetters_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4FEC0734D1CAE86204C81098A1A2110F /* Pods-RimhTypingLetters_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RimhTypingLetters_Tests-dummy.m"; sourceTree = "<group>"; };
 		5110AA4DCBE53E4466678CA1DE0DACFF /* Pods-RimhTypingLetters_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RimhTypingLetters_Example-umbrella.h"; sourceTree = "<group>"; };
 		528C989DC5E25AED98BCD601534B4981 /* RimhTypingLetters-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RimhTypingLetters-umbrella.h"; sourceTree = "<group>"; };
-		55BCAB0B145EA6981ED9748CF27D2939 /* Pods_RimhTypingLetters_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RimhTypingLetters_Example.framework; path = "Pods-RimhTypingLetters_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		55BCAB0B145EA6981ED9748CF27D2939 /* Pods_RimhTypingLetters_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RimhTypingLetters_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7E22A8DA7810ECBB1E60F312001A6FC6 /* Pods-RimhTypingLetters_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RimhTypingLetters_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		7F6D469BF353A85D93926232E2E47033 /* Pods-RimhTypingLetters_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RimhTypingLetters_Example-dummy.m"; sourceTree = "<group>"; };
 		8DE72BAA344FC348467DA8B1D2FF725D /* Pods-RimhTypingLetters_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RimhTypingLetters_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		90A77CAC7607A2679E34EBABCEEC48F7 /* Pods-RimhTypingLetters_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RimhTypingLetters_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97BCBCBC86059EF83C584333F0C17033 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F65A1DC90999999CFC89AC016A9E18E /* RimhTypingLetters.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RimhTypingLetters.xcconfig; sourceTree = "<group>"; };
-		B0B5FD67A472CD6FD33B01632EE4C4F7 /* RimhTypingLetters.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = RimhTypingLetters.modulemap; sourceTree = "<group>"; };
+		B0B5FD67A472CD6FD33B01632EE4C4F7 /* RimhTypingLetters.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = RimhTypingLetters.modulemap; sourceTree = "<group>"; };
 		B63B0734EB5EECBA7D909508C2AD0B99 /* RimhTypingLetters-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RimhTypingLetters-prefix.pch"; sourceTree = "<group>"; };
-		CA2C2242CB592CD3C9238201935DB633 /* Pods-RimhTypingLetters_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-RimhTypingLetters_Example.modulemap"; sourceTree = "<group>"; };
+		CA2C2242CB592CD3C9238201935DB633 /* Pods-RimhTypingLetters_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-RimhTypingLetters_Example.modulemap"; sourceTree = "<group>"; };
 		E0F3F8C6557E37D879E27610060B9718 /* Pods-RimhTypingLetters_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RimhTypingLetters_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E2E39EEDC056B968F0893D6116D54DE4 /* Pods-RimhTypingLetters_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RimhTypingLetters_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E8A4492E493B41CE9160400900E6DCF5 /* Pods-RimhTypingLetters_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RimhTypingLetters_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -298,7 +298,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 1010;
+				TargetAttributes = {
+					A5F6E1FEAA146CE13D30F2C89C96B89F = {
+						LastSwiftMigration = 1010;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -404,6 +409,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -411,6 +417,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -474,7 +481,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -573,7 +580,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -594,6 +601,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -601,6 +609,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -631,6 +640,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
